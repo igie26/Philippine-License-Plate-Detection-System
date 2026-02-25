@@ -6,7 +6,7 @@ A 4-stage pipeline for detecting, enhancing, and recognizing Philippine license 
 
 - **Stage 1: YOLO Detection** - Detects license plates in images/videos
 - **Stage 2: Real-ESRGAN Enhancement** - Enhances plate image quality
-- **Stage 3: Advanced OCR** - Recognizes Philippine license plate text
+- **Stage 3: OCR** - Recognizes Philippine license plate text
 - **Stage 4: SVM Classification** - Classifies plate type and detects violations
 
 ## 📋 Requirements
